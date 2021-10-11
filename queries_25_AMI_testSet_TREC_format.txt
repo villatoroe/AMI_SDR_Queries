@@ -1,0 +1,295 @@
+
+<top>
+<num> Number: 2
+  <title>
+Current Component options
+case material supplements
+plastic
+rubber such as used in anti-RSI stress balls
+wood
+titanium which we also use in our production of space designs
+Unfortunately we can t use the titanium for the double curved cases and latex cases won t allow the use of solar cells as energy source
+  </top>
+
+<top>
+<num> Number: 3
+  <title>
+Three Presentations
+Conceptual specification of components properties and materials
+Conceptual specification of user interface
+Trend watching
+  </top>
+
+<top>
+<num> Number: 5
+  <title>
+Decisions
+Components concept
+Energy
+Chip on print
+Case
+User interface concept
+Interface
+Type
+Supplements
+  </top>
+
+<top>
+<num> Number: 7
+  <title>
+Personal Preferences
+Cheap model
+Flat plastic case
+Standard battery
+Push buttons
+Fancy model
+Curved titanium
+LCD screen
+Multiple scroll buttons
+Sample sensor sample speaker
+  </top>
+
+<top>
+<num> Number: 8
+  <title>
+Recent Fashion Update
+Fashion watchers in Paris and Milan have detected the following trends
+This year fruit and vegetables will be the most important theme for cloths shoes and furniture
+Also in contrast to last year the feel of material is expected to be spongy
+  </top>
+
+<top>
+<num> Number: 11
+  <title>
+Method
+We are going to look to whom we are going to sell the most remotes and adjust our remote the most to these people
+Younger people 16-45 are interested in features
+We posses about 2 3 of the market share
+Elderly people 45 are not interested in features
+We posses about 2 5 of the market share
+  </top>
+
+<top>
+<num> Number: 13
+  <title>
+Decisions 
+Energy kinetic
+Chip on print regular
+Cases plastic with rubber coating and interchangeable plates
+User interface concept
+Interface
+Type command line interface
+Supplements numbers channel changer volume
+  </top>
+
+<top>
+<num> Number: 15
+  <title>
+Project Finance
+Selling price 25 euro
+Profit aim 50 M euro
+Market range international
+Production costs max 12 50 euro
+  </top>
+
+<top>
+<num> Number: 16
+  <title>
+Real Reaction
+Remote Control
+Teaching Cont use plastic with rubber casing powered by kenetic energy
+No decision on curvatures look like scroll but push button technology
+Separate fashionable covers could be separate product
+Yellow with black buttons with company slogan and image suggested
+  </top>
+
+<top>
+<num> Number: 17
+  <title>
+Real Reaction
+Remote Control
+Problems Issues Production issues
+Coordination of user technical marketing etc
+Conflict of ideas with cost constraints
+Time constraint of the meeting
+  </top>
+
+<top>
+<num> Number: 18
+  <title>
+Personal Preferences
+We want something fancy and technological innovative
+what we need is something from the future but not tacky
+Fruit and veg for clothes and other stuff two options
+Stay well away from fruit and veg
+Incorporate the whole idea into the product e g a potato peeler
+How practical is spongy material for an electrical product
+How do LEDs fit in
+Can stress it is long lasting
+  </top>
+
+<top>
+<num> Number: 24
+  <title>
+Findings
+We've got a market
+Three out of four
+RC s are ugly
+four out of five wants to spend more money on them
+Three out of four zaps a lot zap-buttons are used 168 times per hour
+Power channel-selection volume and teletext-buttons are said to be relevant
+Settings audio video sound are not relevant
+  </top>
+
+<top>
+<num> Number: 26
+  <title>
+Tool Training
+Try out whiteboard
+Every participant should draw their favorite animal and sum up their favorite characteristics of that animal
+  </top>
+
+<top>
+<num> Number: 27
+  <title>
+Personal Preferences
+Lightening in the dark
+Not too many buttons
+A way to find it easily
+  </top>
+
+
+<top>
+<num> Number: 32
+  <title>
+Closing
+Are the costs within the budget
+Is the project evaluated
+Don t forget to complete final questionnaire and meeting summary
+Then Celebration
+  </top>
+
+<top>
+<num> Number: 33
+  <title>
+Agenda
+Opening
+Project Manager secretary minutes
+3 presentations
+New project requirements
+Decision on remote control functions
+closing we have 40 minutes
+  </top>
+
+
+<top>
+<num> Number: 40
+  <title>
+Findings 2
+Most Relevant functions
+Channel selection
+Volume selection
+Power
+Teletext flipping pages included
+One-time-use functions
+  </top>
+
+<top>
+<num> Number: 42
+  <title>
+Findings
+Many controls too complicated
+Too many buttons can confuse user
+Confusing labelling is bad eg PROG PRG
+Simplicity good
+but can lead to clunky design
+Hard to access advanced functions ef slow motion
+  </top>
+
+<top>
+<num> Number: 44
+  <title>
+Closing 
+Next meeting starts in 30 minutes
+Individual actions
+ID the working design
+UID the technical functions design
+ME the user requirements specification
+Specific instructions will be send to you by your personal coach
+  </top>
+
+<top>
+<num> Number: 45
+  <title>
+Findings 
+The elder part of the audience doesn t care much for innovative features such as speech recognition or an LCD screen
+People only use about 10 of the buttons and mostly zap
+People often complain that they cant find there remote control 50 so we should build in a feature to support them
+  </top>
+
+<top>
+<num> Number: 49
+  <title>
+Evaluation
+Criteria rating with seven-point scale
+Shape biomorphic 1
+Size small 2
+Color bright warm 1
+Feel as soft as possible 3
+Functionality people won t use it before they buy it paradoxically other features will be main selling points 5
+  </top>
+
+<top>
+<num> Number: 51
+  <title>
+History
+Zenith engineer Eugene Polley invented the Flashmatic which represented the industry s first wireless TV remote
+Introduced in 1955 Flashmatic operated by means of four photo cells one in each corner of the TV screen
+The viewer used a highly directional flashlight to activate the four control functions which turned the picture and sound on and off and changed channels by turning the tuner dial clockwise and counter-clockwise
+While it pioneered the concept of wireless TV remote control the Flashmatic had some limitations
+It was a simple device that had no protection circuits and if the TV sat in an area in which the sun shone directly on it the tuner might start rotating
+  </top>
+
+<top>
+<num> Number: 54
+  <title>
+Evaluation
+Criteria
+I find this device really fancy
+I find this device really handy
+I find this device completely functional
+I like the cool features of this device
+Yes this MANDO banana is easy to use
+Of course I would buy the MANDO banana for 25 euros if I needed a remote control 
+I would change my remote control for a MANDO banana
+  </top>
+
+<top>
+<num> Number: 59
+  <title>
+1 The Shawshank Redemption
+Directed by Frank Darabont
+Gendre Drama
+User Rating 9 0 10
+Plot Outline The life of Andy Dufresne changes when he is convicted and jailed for the murder of his wife
+Simply amazing
+The best film of the 9
+  </top>
+
+
+<top>
+<num> Number: 62
+  <title>
+Equipment
+Equipment we have
+photocopier FAX printer
+Each office has
+A whiteboard
+A bulletin board
+A coatrack
+Each person gets
+A chair
+A corner desk
+A small filinf cabinet 3 drawers
+One hanging shelf
+  </top>
