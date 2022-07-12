@@ -20,7 +20,7 @@
     booktitle = {Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval},
     pages = {2669–2674},
     series = {SIGIR '22}
-    }```
+    }'''
     
   - The original paper describing how these topics can be found at
     
@@ -35,13 +35,15 @@
     doi = {https://doi.org/10.1016/j.csl.2013.12.005},
     url = {https://www.sciencedirect.com/science/article/pii/S0885230813001186},
     author = {Maria Eskevich and Gareth J.F. Jones},
-    }```
+    }'''
   
 
 ---
 
 - :file_folder: **AMI SDR Queries**
+
   -These are the AMI search topics as shared by Maria Eskevich. 
   
 - :file_folder: **AMI SDR Qrels**
+
   -These are the AMI search topics as shared by Maria Eskevich. 
