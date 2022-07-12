@@ -8,8 +8,22 @@
 ## :notebook: How to cite this work:
 
   - In this repo, you'll find the queries and the relevance assessments used to perform our experiments reported in the paper. If you use any of the material from this repo, the best way to refer to the work is by citing the following two works:
-    - bibliography: VillatoroEtAl2022.bib
-    - nocite: "@*"
+    ```@inproceedings{10.1145/3477495.3531921,
+    author = {Villatoro-Tello, Esa\'{u} and Madikeri, Srikanth and Motlicek, Petr and Ganapathiraju, Aravind and Ivanov, Alexei V.},
+    title = {Expanded Lattice Embeddings for Spoken Document Retrieval on Informal Meetings},
+    year = {2022},
+    isbn = {9781450387323},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3477495.3531921},
+    doi = {10.1145/3477495.3531921},
+    booktitle = {Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+    pages = {2669–2674},
+    numpages = {6},
+    keywords = {speech retrieval, informal spoken content search, lattice embeddings, neural reranker, neural language models, lattice rescoring, lattice expansion},
+    location = {Madrid, Spain},
+    series = {SIGIR '22}
+    }```
 
   - The original paper describing how these topics were generated can be found at: Eskevich, Maria, and Gareth JF Jones. "Exploring speech retrieval from meetings using the AMI corpus." Computer Speech & Language 28.5 (2014): 1021-1044.
   
