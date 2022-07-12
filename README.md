@@ -40,10 +40,6 @@
 
 ---
 
-- :file_folder: **AMI SDR Queries**
-
-  -These are the AMI search topics as shared by Maria Eskevich. 
+- :file_folder: **[AMI SDR Test Queries]()**
   
-- :file_folder: **AMI SDR Qrels**
-
-  -These are the AMI search topics as shared by Maria Eskevich. 
+- :file_folder: **[AMI SDR Qrels]()**
