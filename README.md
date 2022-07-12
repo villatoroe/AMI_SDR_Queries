@@ -19,9 +19,6 @@
     doi = {10.1145/3477495.3531921},
     booktitle = {Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval},
     pages = {2669–2674},
-    numpages = {6},
-    keywords = {speech retrieval, informal spoken content search, lattice embeddings, neural reranker, neural language models, lattice rescoring, lattice expansion},
-    location = {Madrid, Spain},
     series = {SIGIR '22}
     }```
     
