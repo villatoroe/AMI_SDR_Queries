@@ -25,6 +25,8 @@
     series = {SIGIR '22}
     }```
     
+  - The original paper describing how these topics can be found at
+    
     ```@article{ESKEVICH20141021,
     title = {Exploring speech retrieval from meetings using the AMI corpus},
     journal = {Computer Speech & Language},
@@ -37,8 +39,6 @@
     url = {https://www.sciencedirect.com/science/article/pii/S0885230813001186},
     author = {Maria Eskevich and Gareth J.F. Jones},
     }```
-
-  - The original paper describing how these topics were generated can be found at: Eskevich, Maria, and Gareth JF Jones. "Exploring speech retrieval from meetings using the AMI corpus." Computer Speech & Language 28.5 (2014): 1021-1044.
   
 
 ---
