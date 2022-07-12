@@ -39,7 +39,8 @@
   
 
 ---
+## :gift
 
 - :file_folder: **[AMI SDR Test Queries](https://github.com/villatoroe/AMI_SDR_Queries/blob/main/queries/queries_25_AMI_testSet_TREC_format.txt)**
   
-- :file_folder: **[AMI SDR Qrels]()**
+- :file_folder: **[AMI SDR Qrels](https://github.com/villatoroe/AMI_SDR_Queries/blob/main/qrels/AMI_qrels.txt)**
