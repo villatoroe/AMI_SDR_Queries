@@ -39,7 +39,9 @@
   
 
 ---
-## :gift:
+### :gift: DATA
+
+  - **Note:** Provided qrels correspond to the time-based segmentation with segment boundaries placed at regular intervals of 180s with no overlap.
 
 - :file_folder: **[AMI SDR Test Queries](https://github.com/villatoroe/AMI_SDR_Queries/blob/main/queries/queries_25_AMI_testSet_TREC_format.txt)**
   
